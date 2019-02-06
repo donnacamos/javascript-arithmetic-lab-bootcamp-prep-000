@@ -27,6 +27,10 @@ function makeInt(a){
   return makeInt(a.toString());
 }
 
+function makeInt(n){
+  return parseInt(n.)
+}
+
 
 
 function preserveDecimal(a){
