@@ -24,7 +24,7 @@ function dec(a){
 }
 
 function makeInt(a){
-  return makeInt(a.toString());
+  return (a);
 }
 
 function makeInt(n){
