@@ -23,8 +23,8 @@ function dec(n){
   return a -= 1;
 }
 
-function makeInt(a){
-  return (a);
+function makeInt(n){
+  return ;
 }
 
 
