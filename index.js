@@ -28,8 +28,8 @@ function makeInt(n){
 }
 
 
-function preserveDecimal(a){
-  return preserveDecimal('2.222');
+function preserveDecimal(n){
+  return parseFloat(n);
 }
 
 
